@@ -23,6 +23,9 @@ jobs:
       - name: Setup Gradle
         uses: gradle/actions/setup-gradle@v4
 
+      - name: Install Gradle wrapper
+        run: gradle wrapper --gradle-version 8.10 --no-daemon
+
       - name: Build with Gradle
         run: ./gradlew build --no-daemon
 
