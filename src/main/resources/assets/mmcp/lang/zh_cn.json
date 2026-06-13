@@ -1,0 +1,8 @@
+{
+  "item.mmcp.ai_spawn_egg": "MMCP AI 刷怪蛋",
+  "entity.mmcp.ai_entity": "MMCP 人工智能",
+  "creativetab.mmcp": "MMCP AI",
+  "message.mmcp.ai_spawned": "MMCP AI 已生成！",
+  "message.mmcp.server_started": "MCP 服务器已在端口 8932 启动",
+  "message.mmcp.server_stopped": "MCP 服务器已停止"
+}

@@ -1,0 +1,15 @@
+modLoader="javafml"
+loaderVersion="[4,)"
+license="All Rights Reserved"
+
+[[mods]]
+modId="mmcp"
+version="1.0.0"
+displayName="MMCP AI"
+logoFile="mmcp.png"
+credits="MMCP Team"
+authors="MMCP"
+description='''
+MMCP AI Mod - Add intelligent AI entities with MCP server broadcasting.
+The AI entity can act autonomously, interact with players, and serves as an MCP (Model Context Protocol) server broadcaster.
+'''

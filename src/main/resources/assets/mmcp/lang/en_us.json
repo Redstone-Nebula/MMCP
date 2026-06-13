@@ -1,0 +1,8 @@
+{
+  "item.mmcp.ai_spawn_egg": "MMCP AI Spawn Egg",
+  "entity.mmcp.ai_entity": "MMCP AI",
+  "creativetab.mmcp": "MMCP AI",
+  "message.mmcp.ai_spawned": "MMCP AI has been spawned!",
+  "message.mmcp.server_started": "MCP Server started on port 8932",
+  "message.mmcp.server_stopped": "MCP Server stopped"
+}
